@@ -583,11 +583,15 @@
         #one h1 img {
             width: 120px;
             height: 85px;
+            position: fixed;
+            top: 140vh;
+            transition: 0.2s;
         }
 
         #one h1 {
             top: 40%;
             left: 42%;
+           font-size:30vw;
         }
 
         #one h1 p {
@@ -599,8 +603,8 @@
         }
 
         #image {
-            height: 46vh;
-            width: 148vw;
+            height: 38vh;
+            width: 157vw;
             position: relative;
             bottom: -38%;
             left: 40%;
@@ -632,7 +636,7 @@
 
         #nav i {
             position: relative;
-            right: 35%;
+            right: 5%;
 
         }
 
