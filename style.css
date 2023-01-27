@@ -283,19 +283,19 @@
     }
 
     #photus .photu:nth-child(1) {
-        background-image: url(/new2.png);
+        background-image: url(new2.png);
         background-size: cover;
         background-position: center;
     }
 
     #photus .photu:nth-child(2) {
-        background-image: url(/new3.png);
+        background-image: url(new3.png);
         background-size: cover;
         background-position: center;
     }
 
     #photus .photu:nth-child(3) {
-        background-image: url(/new1.png);
+        background-image: url(new1.png);
         background-size: cover;
         background-position: center;
     }
