@@ -93,7 +93,7 @@
         min-height: 100vh;
         background-color: #222;
         border: 1px solid transparent;
-
+        overflow-x:hidden;
     }
 
     #image {
